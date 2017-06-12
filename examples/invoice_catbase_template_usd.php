@@ -134,7 +134,7 @@ Client name<br />7 Address of the client<br />Portland, CA 23232<br />US<br /><b
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;"><b>Ordered by</b></td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">Vince Tan</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Joe Blogg</td>
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;"><b>PO number</b></td>
