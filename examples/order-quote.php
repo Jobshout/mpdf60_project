@@ -235,7 +235,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 </tr>
 <tr>
 <td>Account number</td>
-<td>91565850</td>
+<td>bank-account-number</td>
 </tr>
 <tr>
 <td>Please use reference</td>
@@ -440,7 +440,7 @@ Please note that our payment terms for this Invoice are OVERDUE.
 </tr>
 <tr>
 <td>Account number</td>
-<td>91565850</td>
+<td>bank-account-number</td>
 </tr>
 <tr>
 <td>Please use reference</td>

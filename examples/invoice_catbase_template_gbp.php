@@ -270,7 +270,7 @@ Please note that our payment terms for this Invoice are DUE ON RECEIPT.
 </tr>
 <tr>
 <td>Account number</td>
-<td>91565850</td>
+<td>bank-account-number</td>
 </tr>
 <tr>
 <td>Please use reference</td>

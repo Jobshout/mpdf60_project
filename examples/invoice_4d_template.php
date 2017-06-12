@@ -135,7 +135,7 @@ Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post cod
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Ordered by</td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">Steve Buss</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">John Bon Jovi</td>
 </tr>
 
 </table>
@@ -201,7 +201,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 <p><a href="http://www.tenthmatrix.co.uk/terms-of-business.html">http://www.tenthmatrix.co.uk/terms-of-business.html</a></p>
 <p>Please note that our payment terms for this Invoice are NET 30 days from the date of Invoice. Interest will be charged on all Invoice that are not paid on time.</p>
 <h4><u>Notes</u></h4>
-<p>Thank you for your business!<br />VAT No. 972 9855 56. Bank: HSBC, Sort Code: 40-24-07, Account No. 91565850</p>
+<p>Thank you for your business!<br />VAT No. 972 9855 56. Bank: HSBC, Sort Code: 40-24-07, Account No. bank-account-number</p>
 
 
 <h4><u>Paying online</u></h4>
@@ -222,7 +222,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 </tr>
 <tr>
 <td>Account number</td>
-<td>91565850</td>
+<td>bank-account-number</td>
 </tr>
 <tr>
 <td>Please use reference</td>
