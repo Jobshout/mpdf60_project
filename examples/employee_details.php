@@ -92,7 +92,7 @@ table thead td { background-color: #EEEEEE;
 <div class="row">
 <div class="col1">
 <img src="Jobshout_logo.jpg" width="190" />
-<div class="main_heading"> Puneet Chopra </div>
+<div class="main_heading"> Joe Blogg </div>
 </div>
 
 <div class="col2 floatright">
@@ -542,7 +542,7 @@ $mpdf->SetDisplayMode('fullpage');
 
 $mpdf->WriteHTML($html . $termsHTML);	// Separate Paragraphs  defined by font
 
-//$mpdf->Output('TimeSheets_Puneet.pdf','F');
+//$mpdf->Output('TimeSheets_Joe Blogg.pdf','F');
 $mpdf->Output();
 exit;
 
