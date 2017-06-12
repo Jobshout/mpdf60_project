@@ -263,7 +263,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 </tr>
 <tr>
 <td>Sort code</td>
-<td>40-05-15</td>
+<td>Sort-Code</td>
 </tr>
 <tr>
 <td>Account number</td>

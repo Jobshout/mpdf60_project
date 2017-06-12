@@ -231,11 +231,11 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 </tr>
 <tr>
 <td>Sort code</td>
-<td>40-05-15</td>
+<td>Sort-Code</td>
 </tr>
 <tr>
 <td>Account number</td>
-<td>73160199</td>
+<td>Account-Number</td>
 </tr>
 <tr>
 <td>Please use reference</td>
@@ -250,7 +250,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 
 <tr>
 <td>IBAN</td>
-<td>GB86MIDL40051573160199</td>
+<td>GB86MIDL400515Account-Number</td>
 </tr>
 <tr>
 <td>HSBC BIC code / SWIFT Code</td>
