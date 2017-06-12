@@ -110,7 +110,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:1pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-Elsevier<br />Attn: Accounts Payable<br />360 Park Avenue South<br />New York, NY 10010<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 <div class="col2 floatright">

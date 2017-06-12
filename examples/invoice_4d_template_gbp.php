@@ -111,7 +111,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:1pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-Europa Components<br /> Accounts Payable<br />Europa House<br />Luton, Beds. LU2 9NH<br />UK<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 <div class="col2 floatright">
@@ -135,7 +135,7 @@ Europa Components<br /> Accounts Payable<br />Europa House<br />Luton, Beds. LU2
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Ordered by</td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">Marc</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Joe Blogg</td>
 </tr>
 
 </table>

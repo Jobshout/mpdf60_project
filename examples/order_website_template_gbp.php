@@ -111,7 +111,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-CV Screen <br />Unit A12, Boughton Business Park, Bell L<br />Amersham, Buckinghamshire HP6 6GL<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 <div class="col2 floatright">

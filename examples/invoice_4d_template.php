@@ -112,7 +112,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:1pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-Red Sofa London<br />Attn: Accounts Payable<br />68 - 72 Redchurch Street<br />London E2 7DP<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 <div class="col2 floatright">
@@ -236,7 +236,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 <tbody>
 <tr>
 <td>IBAN</td>
-<td>GB65MIDL40240791565850</td>
+<td>IBAN-Number</td>
 </tr>
 <tr>
 <td>HSBC International SWIFT Code</td>

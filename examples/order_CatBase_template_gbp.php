@@ -110,7 +110,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails">
 <h4><b>To:</b></h4>
-Watsons Directories Ltd.<br />Unit 9 Rural Enterprise Park<br />Brunel Way<br />Leominster HR6 0LX<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 <div class="col2 floatright">

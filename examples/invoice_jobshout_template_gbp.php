@@ -111,7 +111,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-CV Screen Ltd<br /> Accounts Payable<br />Unit A12, Boughton Business Park, Bell L<br />Amersham, Buckinghamshire HP6 6GL<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 <div class="col2 floatright">
@@ -262,7 +262,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 <tbody>
 <tr>
 <td>IBAN</td>
-<td>GB65MIDL40240791565850</td>
+<td>IBAN-Number</td>
 </tr>
 <tr>
 <td>HSBC International SWIFT Code</td>

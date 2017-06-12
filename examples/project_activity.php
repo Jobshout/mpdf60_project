@@ -76,7 +76,7 @@ table thead td { background-color: #EEEEEE;
  
 <div class="col2 floatright">
 <h4>Tenthmatrix Information Systems Ltd.</h4>
-The Coach House, 77A Marlowes,<br /> Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 0207 118 7889<br />Email: billing@tenthmatrix.co.uk</div>
+The Coach House, 77A Marlowes,<br /> Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 0207 118 7889<br />Email: billing@jobshoutdemo.co.uk</div>
 </div>
 
 <htmlpagefooter name="myfooter">
@@ -91,7 +91,7 @@ Page {PAGENO} of {nb}
 <div class="row billtodetails" style="margin-top:10pt;">
 
 <h4><b>Project Details:</b></h4>
-Client Name :  Elsevier <br />
+Client Name :  Your client name <br />
 Project Name :  Import Images 1 by 1 (Post v13 Upgrade) <br />
 Start Date : 01/07/2013<br />
 Active/Completed : Completed<br />

@@ -144,7 +144,7 @@ Page {PAGENO} of {nb}
 	background-gradient: linear #eeeeee #f0f2f0 0 1 0 0.5;" class="col1">
 
 <h4><b>Bill To:</b></h4>
-Address of client<br />Address Demo<br />The Maryland Heights<br />, Post code<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 

@@ -108,7 +108,7 @@ Page {PAGENO} of {nb}
 
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails"><h4><b>Bill To:</b></h4>
-Management Concepts, Inc.<br />8230 Leesburg Pike<br />Tysons Corner, VA 22182<br />USA<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 <div class="col2 floatright">

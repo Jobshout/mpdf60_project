@@ -98,7 +98,7 @@ table thead td { background-color: #EEEEEE;
 
 <div class="col2 floatright">
 <h4>Tenthmatrix Information Systems Ltd.</h4>
-The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 0207 118 7889<br />Email: billing@tenthmatrix.co.uk</div>
+The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 112 1212 1212<br />Email: billing@tenthmatrix.co.uk</div>
 </div>
 <htmlpagefooter name="myfooter">
 <div style="border-top: 1px solid #333333; font-size: 9pt; text-align: center; padding-top: 1mm; ">
@@ -112,7 +112,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-<br /><br />
+Client Name here<br /> Accounts Payable<br />1 Blue Street<br />London, post code<br /><br />
 </div>
 
 <div class="col2 floatright">
@@ -248,7 +248,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 <tbody>
 <tr>
 <td>IBAN</td>
-<td>GB65MIDL40240791565850</td>
+<td>IBAN-Number</td>
 </tr>
 <tr>
 <td>HSBC International SWIFT Code</td>
@@ -454,7 +454,7 @@ Please note that our payment terms for this Invoice are OVERDUE.
 <tbody>
 <tr>
 <td>IBAN</td>
-<td>GB65MIDL40240791565850</td>
+<td>IBAN-Number</td>
 </tr>
 <tr>
 <td>HSBC International SWIFT Code</td>
