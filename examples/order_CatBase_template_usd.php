@@ -126,7 +126,7 @@ Client name.<br />Attn: Accounts Payable<br />100, Beal Avenue<br />Boston, Cali
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;"><b>Sales person</b></td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">Pat Bensky</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Joe Blogg</td>
 </tr>
 
 <tr>
