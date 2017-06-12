@@ -91,12 +91,12 @@ table thead td { background-color: #EEEEEE;
 <body>
 <div class="row">
 <div class="col1">
-<img src="catbase-small-transp.png" width="200" />
+<img src="Babelfish-small-transp.png" width="200" />
 <div class="main_heading">Proforma Invoice</div>
 </div>
 <div class="col2 floatright">
 <img src="Jobshout_logo.jpg" width="190" /><br><h4>Tenthmatrix Information Systems Ltd.</h4>
-The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 0207 118 7889<br />Email: billing@tenthmatrix.co.uk</div>
+The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 0207 118 7889<br />Email: Joe Blogging@tenthmatrix.co.uk</div>
 </div>
 
 <htmlpagefooter name="myfooter">
@@ -139,7 +139,7 @@ HCL America Inc.<br />Attn: Accounts Payable<br />330, Potrero Avenue<br />Sunny
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Project</td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">CATBASE</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Babelfish</td>
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Ordered by</td>

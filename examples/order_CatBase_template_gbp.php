@@ -90,7 +90,7 @@ table thead td { background-color: #EEEEEE;
 </style>
 <body>
 <div class="row">
-<div class="col1"><img src="catbase-small-transp.png" width="200" />
+<div class="col1"><img src="Babelfish-small-transp.png" width="200" />
 <div class="main_heading">Proforma Invoice</div>
 </div>
 <div class="col2 floatright">
@@ -138,7 +138,7 @@ Watsons Directories Ltd.<br />Unit 9 Rural Enterprise Park<br />Brunel Way<br />
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Project</td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">CatBase</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Babelfish</td>
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Ordered by</td>

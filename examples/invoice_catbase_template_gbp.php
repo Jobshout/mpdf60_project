@@ -90,7 +90,7 @@ table thead td { background-color: #EEEEEE;
 </style>
 <body>
 <div class="row">
-<div class="col1"><img src="catbase-small-transp.png" width="200" />
+<div class="col1"><img src="Babelfish-small-transp.png" width="200" />
 <div class="main_heading">INVOICE</div>
 </div>
 <div class="col2 floatright"><img src="Jobshout_logo.jpg" width="190" /><br><h4>Jobshout Ltd.</h4>
@@ -127,7 +127,7 @@ Management Concepts, Inc.<br />8230 Leesburg Pike<br />Tysons Corner, VA 22182<b
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Project</td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">CATBASE</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Babelfish</td>
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Ordered by</td>
@@ -155,7 +155,7 @@ Management Concepts, Inc.<br />8230 Leesburg Pike<br />Tysons Corner, VA 22182<b
 
 <td align="center">1995</td>
 <td align="center">0.5</td>
-<td>CatBase Multi-User (2)</td>
+<td>Babelfish Multi-User (2)</td>
 <td align="right">&#163;2495.00</td>
 <td align="right">&#163;1247.50</td>
 </tr>
@@ -248,7 +248,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 <p><a href="http://www.tenthmatrix.co.uk/terms-of-business.html">http://www.tenthmatrix.co.uk/terms-of-business.html</a></p>
 Please note that our payment terms for this Invoice are DUE ON RECEIPT.
 <h4><u>Notes</u></h4>
-<p>1. CatBase Multi-User: Application software to install on your server and client machines. Two client licences are included. This is a one-time perpetual license.<br />2. Scripting: This is an estimate based on our discussions. Scripting will be required to perform certain calculations, such as how to organise the information in the various text boxes on the layout according to specified rules. As we have not yet received the detailed project specification, we do not know how complex those rules are, so this is an estimated cost.<br />3. Technical Support: Basic support for 1 year. This includes support via our online ticketing system and email, and all CatBase program updates, both minor and major.<br />4. Database setup: Set up a CatBase database for the project, including the tables, fields, and data entry and list forms; and publishing stylesheets to work with your InDesign templates and is a one off payment.<br />5. Xtags: Plugin for InDesign - required for import of images and  creation of text frames.<br /><br /><br />This invoice represents the balance due on the original contract, plus one additional Xtags licence and additional work required in creating scriupts etc. to handle the complex rules and formatting requirements of the project.</p>
+<p>1. Babelfish Multi-User: Application software to install on your server and client machines. Two client licences are included. This is a one-time perpetual license.<br />2. Scripting: This is an estimate based on our discussions. Scripting will be required to perform certain calculations, such as how to organise the information in the various text boxes on the layout according to specified rules. As we have not yet received the detailed project specification, we do not know how complex those rules are, so this is an estimated cost.<br />3. Technical Support: Basic support for 1 year. This includes support via our online ticketing system and email, and all Babelfish program updates, both minor and major.<br />4. Database setup: Set up a Babelfish database for the project, including the tables, fields, and data entry and list forms; and publishing stylesheets to work with your InDesign templates and is a one off payment.<br />5. Xtags: Plugin for InDesign - required for import of images and  creation of text frames.<br /><br /><br />This invoice represents the balance due on the original contract, plus one additional Xtags licence and additional work required in creating scriupts etc. to handle the complex rules and formatting requirements of the project.</p>
 
 
 
@@ -274,7 +274,7 @@ Please note that our payment terms for this Invoice are DUE ON RECEIPT.
 </tr>
 <tr>
 <td>Please use reference</td>
-<td>CATBASE-1114</td>
+<td>Babelfish-1114</td>
 </tr>
 </tbody>
 </table>

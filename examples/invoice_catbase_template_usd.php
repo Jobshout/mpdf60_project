@@ -91,7 +91,7 @@ table thead td { background-color: #EEEEEE;
 <body>
 <div class="row">
 <div class="col1">
-<img src="catbase-small-transp.png" width="200" />
+<img src="Babelfish-small-transp.png" width="200" />
 <div class="main_heading">INVOICE</div>
 </div>
 <div class="col2 floatright">
@@ -130,7 +130,7 @@ Client name<br />7 Address of the client<br />Portland, CA 23232<br />US<br /><b
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;"><b>Project</b></td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">CATBASE</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Babelfish</td>
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;"><b>Ordered by</b></td>
@@ -166,7 +166,7 @@ Client name<br />7 Address of the client<br />Portland, CA 23232<br />US<br /><b
 
 <td align="center">2040</td>
 <td align="center">1</td>
-<td>CatBase Multi-User (2)</td>
+<td>Babelfish Multi-User (2)</td>
 <td align="right">&#36;10655.00</td>
 <td align="right">&#36;10655.00</td>
 </tr>
@@ -212,7 +212,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 
 <p>Please note that our payment terms for this Invoice are OVERDUE days from the date of Invoice. Interest will be charged on all Invoice that are not paid on time.</p>
 <h4><u>Notes</u></h4>
-<p>Third payment for the CatBase project.<br /></p>
+<p>Third payment for the Babelfish project.<br /></p>
 
 <img class="partnerlogo" src="adobe-technology-partner.jpg" width="188" />
 <img class="partnerlogo" src="partner-silver.png" width="120" />
@@ -239,7 +239,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 </tr>
 <tr>
 <td>Please use reference</td>
-<td>CATBASE-1141</td>
+<td>Babelfish-1141</td>
 </tr>
 </tbody>
 </table>
