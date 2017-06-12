@@ -115,8 +115,8 @@ Page {PAGENO} of {nb}
 <h4><b>Task Details:</b></h4>
 Description :  Making Changes for PDFs options <br />
 Project :  PDF R&D <br />
-Reported By : Pat Bensky<br />
-Assigned to : Neha Kapoor<br />
+Reported By : Joe Blogg<br />
+Assigned to : Joe Blogg<br />
 Status : assigned <br />
 </div>
  
@@ -140,7 +140,7 @@ Status : assigned <br />
 
 <tr>
 <td align="left">Working with Pat on PDF</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">30/10/2015 10:30:00</td>
 <td align="center">30/10/2015 17:00:00</td>
@@ -153,7 +153,7 @@ Status : assigned <br />
 
 <tr>
 <td align="left">Working locally on Catbase TCPDF, preparing samples to make changes in Catbase</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">10/11/2015 09:30:00</td>
 <td align="center">10/11/2015 17:30:00</td>
@@ -166,7 +166,7 @@ Status : assigned <br />
 
 <tr>
 <td align="left">Working locally on TCPDF changes on catbase and testing on browser by creating sample pdfs .</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">12/11/2015 09:30:00</td>
 <td align="center">12/11/2015 15:50:00</td>
@@ -179,7 +179,7 @@ Status : assigned <br />
 
 <tr>
 <td align="left">Discussed issues of catbase PDF with Pat and working locally on the changes</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">18/11/2015 16:30:00</td>
 <td align="center">18/11/2015 18:45:00</td>
@@ -193,7 +193,7 @@ Status : assigned <br />
 <tr>
 <td align="left">added more options of printing End matter, Cover, back  Cover, etc in PDF
 Added Header and footer section for different sections</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">19/11/2015 10:30:00</td>
 <td align="center">19/11/2015 18:00:00</td>
@@ -206,7 +206,7 @@ Added Header and footer section for different sections</td>
 
 <tr>
 <td align="left">Added multiple static content and images and add inline styling.</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">20/11/2015 11:30:00</td>
 <td align="center">20/11/2015 17:30:00</td>
@@ -233,7 +233,7 @@ Added Header and footer section for different sections</td>
 <tr>
 <td align="left">1. Fixed existing Font issue in Catbase. It is due to some invalid entities arise during file_get_contents()
 2. Working on to add new Fonts if they don&#39;t exist in tcpdf/fonts folder.</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">24/11/2015 10:00:00</td>
 <td align="center">24/11/2015 13:40:00</td>
@@ -247,7 +247,7 @@ Added Header and footer section for different sections</td>
 <tr>
 <td align="left">Added all styles options both as Inline and in css.
 Added options to add header/footers in all sections with all given options</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">23/11/2015 09:30:00</td>
 <td align="center">23/11/2015 17:30:00</td>
@@ -273,7 +273,7 @@ Added options to add header/footers in all sections with all given options</td>
 
 <tr>
 <td align="left">Generated required fonts only needed while generating PDF. And uploaded the changes in Dropbox</td>
-<td align="left">Neha Kapoor</td>
+<td align="left">Joe Blogg</td>
 <td align="left">PDF R&amp;D</td>
 <td align="center">02/12/2015 11:30:00</td>
 <td align="center">02/12/2015 13:30:00</td>
