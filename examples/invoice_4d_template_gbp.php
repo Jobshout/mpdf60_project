@@ -159,7 +159,7 @@ Europa Components<br /> Accounts Payable<br />Europa House<br />Luton, Beds. LU2
 
 <td align="center">2150</td>
 <td align="center">1</td>
-<td>Product: Web site hosting - 36-month co<br \/>UKFast dedicated web server with firewall and two texin-electric.com mailboxes.</td>
+<td>Product: Web site hosting - 36-month co<br \/>AWS EC2 dedicated web server with firewall and two texin-electric.com mailboxes.</td>
 <td align="right">&#163;591.00</td>
 <td align="right">&#163;591.00</td>
 </tr>
@@ -201,7 +201,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 <p><a href="http://www.tenthmatrix.co.uk/terms-of-business.html">http://www.tenthmatrix.co.uk/terms-of-business.html</a></p>
 <p>Please note that our payment terms for this Invoice are UPON RECEIPT days from the date of Invoice. Interest will be charged on all Invoice that are not paid on time.</p>
 <h4><u>Notes</u></h4>
-<p>UKFast dedicated web server with firewall and two texin-electric.com mailboxes.<br /> For period: 01/12/2016 to 01/01/2017 (END OF CONTRACT, LAST INVOICE AS WEBSITE IS MOVED TO ANOTHER SUPPLIER BY EUROPA)</p>
+<p>AWS EC2 dedicated web server with firewall and two texin-electric.com mailboxes.<br /> For period: 01/12/2016 to 01/01/2017 (END OF CONTRACT, LAST INVOICE AS WEBSITE IS MOVED TO ANOTHER SUPPLIER BY EUROPA)</p>
 
 
 <h4><u>PAYING BY DEBIT OR CREDIT CARD</u></h4>
