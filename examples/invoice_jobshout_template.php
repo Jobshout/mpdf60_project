@@ -239,7 +239,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 <tbody>
 <tr>
 <td>IBAN</td>
-<td>GB65MIDL40240791565850</td>
+<td>IBAN-Number</td>
 </tr>
 <tr>
 <td>HSBC International SWIFT Code</td>

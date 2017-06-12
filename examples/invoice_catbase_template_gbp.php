@@ -283,7 +283,7 @@ Please note that our payment terms for this Invoice are DUE ON RECEIPT.
 <tbody>
 <tr>
 <td>IBAN</td>
-<td>GB65MIDL40240791565850</td>
+<td>IBAN-Number</td>
 </tr>
 <tr>
 <td>HSBC International SWIFT Code</td>
