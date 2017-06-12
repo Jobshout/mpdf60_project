@@ -141,7 +141,7 @@ Management Concepts, Inc.<br />8230 Leesburg Pike<br />Tysons Corner, VA 22182<b
 <table class="items" width="100%" style="font-size: 7pt; border-collapse: collapse;margin-top: 10pt;" cellpadding="8">
 <thead>
 <tr>
-<td width="10%"><b>ITEM</b>/td>
+<td width="10%"><b>ITEM</b></td>
 <td width="10%"><b>QUANTITY</b></td>
 <td width="50%"><b>DESCRIPTION</b></td>
 <td width="15%"><b>UNIT PRICE</b></td>
