@@ -94,8 +94,8 @@ table thead td { background-color: #EEEEEE;
 </div>
 
 <div class="col2 floatright">
-<h4>Tenthmatrix Information Systems Ltd.</h4>
-2nd Floor, Titan Court, 3 Bishop Square, Hatfield<br />Herts, AL10 9NA<br />Tel: 01707 226 094<br />Email: billing@tenthmatrix.co.uk</div>
+<h4>Demo by Jobshout Ltd.</h4>
+The Coach House, 77A Marlowes<br />Hemel Hempstead, Herts, HP1 1LF<br />Tel: 07515 356146<br />Email: bookkeeper@yourdomain.com</div>
 </div>
 
 <htmlpagefooter name="myfooter">

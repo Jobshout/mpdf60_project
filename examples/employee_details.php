@@ -96,8 +96,8 @@ table thead td { background-color: #EEEEEE;
 </div>
 
 <div class="col2 floatright">
-<h4>Tenthmatrix Information Systems Ltd.</h4>
-The Coach House, 77A Marlowes<br />Hemel Hempstead, Herts, HP1 1LF<br />Tel: 0207 118 7889<br />Email: billing@tenthmatrix.co.uk</div>
+<h4>Demo by Jobshout Ltd.</h4>
+The Coach House, 77A Marlowes<br />Hemel Hempstead, Herts, HP1 1LF<br />Tel: 07515 356146<br />Email: bookkeeper@yourdomain.com</div>
 </div>
 
 <htmlpagefooter name="myfooter">
@@ -111,7 +111,7 @@ Page {PAGENO} of {nb}
 
 <div class="row" style="margin-top:10pt;">
 <div class="billtodetails"><h4><b>Details:</b></h4>
-Position :  Designer <br />Email : puneet@jobshout.co.in <br />Manager : Balinder Walia <br />Status : Active User <br /><br />
+Position :  Designer <br />Email : bookkeeper@yourdomain.com <br />Manager : Joe Blogg <br />Status : Active User <br /><br />
 </div></div>
 
 <h4 style="margin-top: 10pt;"><b>Timeslips : 0 </b></h4>

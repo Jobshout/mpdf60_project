@@ -114,7 +114,7 @@ Page {PAGENO} of {nb}
 <div class="col1 billtodetails">
 <h4><b>Attn:</b></h4>';
 
-$addressStr = 'Dream Furnishings Ltd<br /> Accounts Payable<br />58 Green Street<br />London, Greater London E7 8BZ<br /><br />';
+$addressStr = 'Client name Ltd<br /> Accounts Payable<br />1 Blue Street<br />London, Greater London Post code<br /><br />';
 
 $html .= $addressStr;
 

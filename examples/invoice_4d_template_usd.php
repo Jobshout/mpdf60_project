@@ -125,7 +125,7 @@ position: absolute;
 ">
 
 <h4>Jobshout Ltd.</h4>
-The Coach House, 77A Marlowes,<br />Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 44 1442 384 149<br />Email: billing@tenthmatrix.co.uk</div>
+The Coach House, 77A Marlowes,<br />Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 44 1442 384 149<br />Email: email@jobshoutdemo.org</div>
 
 
 <htmlpagefooter name="myfooter">
@@ -144,7 +144,7 @@ Page {PAGENO} of {nb}
 	background-gradient: linear #eeeeee #f0f2f0 0 1 0 0.5;" class="col1">
 
 <h4><b>Bill To:</b></h4>
-Elsevier<br />3251 Riverport Lane<br />Maryland Heights<br />, MO 63043<br /><br />
+Address of client<br />Address Demo<br />The Maryland Heights<br />, Post code<br /><br />
 </div>
 
 
@@ -200,7 +200,7 @@ Elsevier<br />3251 Riverport Lane<br />Maryland Heights<br />, MO 63043<br /><br
 
 <td align="center">2205</td>
 <td align="center">1</td>
-<td>Tenthmatrix Img2D Remote App (4Dv15.2 native code) 26th April - 31st December 2017 (DE00393) - Steven Goldberg<br \/>All work per IMG2D Software license Agreement dated May 11,2017.<br \/>1st Installment as per the agreement.</td>
+<td>Tenthmatrix Img2D Remote App (4Dv15.2 native code) 26th April - 31st December 2017 (DE00393) - Joe Blogg <br \/>All work per IMG2D Software license Agreement dated XX XXX XXX.<br \/>1st Installment as per the agreement.</td>
 <td align="right">&#36;30000.00</td>
 <td align="right">&#36;30000.00</td>
 </tr>
@@ -244,7 +244,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 
 <p>Please note that our payment terms for this Invoice are NET 30 days from the date of Invoice. Interest will be charged on all Invoice that are not paid on time.</p>
 <h4><u>Notes</u></h4>
-<p>NetterImages.com Img2D Remote App code purchase by Elsevier.</p>
+<p>clientdomain.com The software Remote App code purchase by Client name.</p>
 
 
 <!--PHP_InvoicePayByCCInfo-->

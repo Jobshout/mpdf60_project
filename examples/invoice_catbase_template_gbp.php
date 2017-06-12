@@ -94,7 +94,7 @@ table thead td { background-color: #EEEEEE;
 <div class="main_heading">INVOICE</div>
 </div>
 <div class="col2 floatright"><img src="Jobshout_logo.jpg" width="190" /><br><h4>Jobshout Ltd.</h4>
-The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 44 1442 384 149<br />Email: billing@tenthmatrix.co.uk</div>
+The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 44 1442 384 149<br />Email: billing@jobshoutdemo.org</div>
 </div>
 
 <htmlpagefooter name="myfooter">

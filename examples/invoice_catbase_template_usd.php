@@ -96,7 +96,7 @@ table thead td { background-color: #EEEEEE;
 </div>
 <div class="col2 floatright">
 <img src="Jobshout_logo.jpg" width="190" /><br><h4>Jobshout Ltd.</h4>
-The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 44 1442 384 149<br />Email: billing@tenthmatrix.co.uk</div>
+The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 44 1442 384 149<br />Email: billing@jobshoutdemo.co.uk</div>
 </div>
 
 <htmlpagefooter name="myfooter">
@@ -111,7 +111,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-Strem Chemicals<br />7 Mulliken Way<br />Newburyport, MA 01950-4098<br />US<br /><br />
+Client name<br />7 Address of the client<br />Portland, CA 23232<br />US<br /><br />
 </div>
 
 <div class="col2 floatright">

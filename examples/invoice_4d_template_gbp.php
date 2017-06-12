@@ -96,8 +96,8 @@ table thead td { background-color: #EEEEEE;
 <div class="main_heading">INVOICE</div>
 </div>
 <div class="col2 floatright">
-<h4>Tenthmatrix Information Systems Ltd.</h4>
-The Coach House, 77A Marlowes, Hemel Hempstead<br />Herts, HP1 1LF<br />Tel: 44 1442 384 149<br />Email: billing@tenthmatrix.co.uk</div>
+<h4>Demo by Jobshout Ltd.</h4>
+The Coach House, 77A Marlowes<br />Hemel Hempstead, Herts, HP1 1LF<br />Tel: 07515 356146<br />Email: bookkeeper@yourdomain.com</div>
 </div>
 <htmlpagefooter name="myfooter">
 <div style="border-top: 1pt solid #333333; font-size: 9pt; text-align: center; padding-top: 1mm; ">
@@ -205,7 +205,7 @@ $termsHTML = '<h3>Thank you for your business.</h3>
 
 
 <h4><u>PAYING BY DEBIT OR CREDIT CARD</u></h4>
-<h4>Click on this link <a href="https://crm.tenthmatrix.co.uk/index.shtml?pay=08c6c41eda7f5498133a7f396d8555b9">https://crm.tenthmatrix.co.uk/index.shtml?pay=08c6c41eda7f5498133a7f396d8555b9</a> to Pay this Invoice now.</h4>
+<h4>Click on this link <a href="https://crm.tenthmatrix.co.uk/index.shtml?pay=XXX">https://crm.tenthmatrix.co.uk/index.shtml?pay=XXX</a> to Pay this Invoice now.</h4>
 <h4>Invoice PIN: 1466</h4>
 
 <h5><u>Refunds Policy</u></h5>
