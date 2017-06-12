@@ -111,7 +111,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails">
 <h4><b>To:</b></h4>
-imoderni<br />The Wynwood Building<br />2750 NW 3rd Ave. (Suite 03)<br />Miami, FL 33127<br />USA<br /><br />
+Client name<br />312213 Five Rivers Lane<br />Disneyland Heights<br />YA 62013<br /><br />
 </div>
 
 <div class="col2 floatright">
@@ -126,7 +126,7 @@ imoderni<br />The Wynwood Building<br />2750 NW 3rd Ave. (Suite 03)<br />Miami, 
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;"><b>Sales person</b></td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">Balinder Walia</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Joe Blogg</td>
 </tr>
 
 <tr>

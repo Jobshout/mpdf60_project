@@ -110,7 +110,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-Elsevier<br />3251 Riverport Lane<br />Maryland Heights<br />MO 63043<br /><br />
+Client name<br />312213 Five Rivers Lane<br />Disneyland Heights<br />YA 62013<br /><br />
 </div>
 
 <div class="col2 floatright">
