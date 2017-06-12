@@ -111,7 +111,7 @@ Page {PAGENO} of {nb}
 <div class="row" style="margin-top:10pt;">
 <div class="col1 billtodetails">
 <h4><b>Bill To:</b></h4>
-HCL America Inc.<br />Attn: Accounts Payable<br />330, Potrero Avenue<br />Sunnyvale, California 94085<br />USA<br /><br />
+Client name.<br />Attn: Accounts Payable<br />100, Beal Avenue<br />Boston, California 123232<br />USA<br /><br />
 </div>
 
 <div class="col2 floatright">
@@ -143,7 +143,7 @@ HCL America Inc.<br />Attn: Accounts Payable<br />330, Potrero Avenue<br />Sunny
 </tr>
 <tr>
 <td style="background-color: #EEEEEE; border-right: 1px solid #333333;border-bottom: 1px solid #333333;">Ordered by</td>
-<td style="text-align: center;border-bottom: 1px solid #333333;">Subbu</td>
+<td style="text-align: center;border-bottom: 1px solid #333333;">Joe Blogg</td>
 </tr>
 
 </table>
