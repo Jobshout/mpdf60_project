@@ -55,7 +55,7 @@
 			<p><a href="statements_template.php" target="_blank"> Statements Template </a></p>
 			<p><a href="task_timesheet.php" target="_blank"> Task Timesheet </a></p>
 			<p><a href="employee_details.php" target="_blank"> Employee Details </a></p>
-			
+			<p><a href="sample.php" target="_blank"> Invoice Sample </a></p>
 			</td>
     		
     		</tr>
@@ -74,28 +74,22 @@
       
       </td>
     </tr>
-	
-	
 	<tr><td align="center" >
-  
-  <table width="650" border="0" cellspacing="0" cellpadding="0" style="margin: 15px auto 0 auto; padding:10px; background-color:#fff; border:1px solid #ddd;" >
-  <tr><td>
+  	<table width="650" border="0" cellspacing="0" cellpadding="0" style="margin: 15px auto 0 auto; padding:10px; background-color:#fff; border:1px solid #ddd;" >
+  		<tr><td>
       		<h3>Notes:</h3>
-	
-	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-	
-<p>	 remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-     </td></tr>
-  </table>
-  
-
-	  
-	  
-	  
-</td>
-    </tr>
-	
-	
+			<b>To add watermark: </b><br>
+			<b>$mpdf->SetWatermarkText("Paid");</b> // set watermark text <br>
+			<b>$mpdf->showWatermarkText = true;</b> // set showWatermarkText true to display watermark <br>
+			<b>$mpdf->watermark_font = 'DejaVuSansCondensed';</b> // font used for watermark <br>
+			<b>$mpdf->watermarkTextAlpha = 0.1;</b> //Specifies the transparency (alpha value) to use for the watermark text. Default value 0.2<br><br>
+			<b>$mpdf->SetDisplayMode('fullpage')</b>; //SetDisplayMode – Specify the initial Display Mode when the PDF file is opened in Adobe Reader<br><br>
+			<b>$mpdf->SetHTMLHeader($header);</b> //Sets an HTML page header<br>
+			<b>$mpdf->SetHTMLFooter($footer);</b> //Sets an HTML page footer<br>
+			</p>
+     	</td></tr>
+  	</table>  
+	</td></tr>
 	
   </tbody>
 </table>
